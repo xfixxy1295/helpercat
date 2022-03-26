@@ -1,0 +1,136 @@
+Uri: https://helpercat.itch.io/helpercat
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\helpercat.html
+Content Type: text/html
+
+Uri: https://helpercat.itch.io/static/images/frog-red.png
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\static\images\frog-red.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1nLzczMDUzMzEuanBn/32x32%23/AJWqcw.jpg
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\aW1nLzczMDUzMzEuanBn\32x32#\AJWqcw.jpg
+Content Type: image/jpeg
+
+Uri: https://static.itch.io/game.css?1635472519
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\game.css
+Content Type: text/css
+
+Uri: https://itch.io/login?return_to=https:%2F%2Fhelpercat.itch.io%2Fhelpercat&intent=follow_user
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\login.html
+Content Type: text/html
+
+Uri: https://itch.io/login?return_to=https:%2F%2Fhelpercat.itch.io%2Fhelpercat&intent=add_to_collection
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\login-1.html
+Content Type: text/html
+
+Uri: https://itch.io/games/released
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\games\released.html
+Content Type: text/html
+
+Uri: https://itch.io/login?return_to=https:%2F%2Fhelpercat.itch.io%2Fhelpercat
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\login-2.html
+Content Type: text/html
+
+Uri: https://itch.io/login?return_to=https:%2F%2Fhelpercat.itch.io%2Fhelpercat&intent=community
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\login-3.html
+Content Type: text/html
+
+Uri: https://itch.io/profile/patriarch5440
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\profile\patriarch5440.html
+Content Type: text/html
+
+Uri: https://itch.io/post/4826300
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\post\4826300.html
+Content Type: text/html
+
+Uri: https://img.itch.zone/aW1hZ2UvMTI1MzY0Ni83MzA1MzMyLmpwZw==/original/P6M9AV.jpg
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\aW1hZ2UvMTI1MzY0Ni83MzA1MzMyLmpwZw==\original\P6M9AV.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMTI1MzY0Ni83MzA1MzMzLmpwZw==/original/BMSzgi.jpg
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\aW1hZ2UvMTI1MzY0Ni83MzA1MzMzLmpwZw==\original\BMSzgi.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMTI1MzY0Ni83MzA1MzM0LmpwZw==/original/yPkRsZ.jpg
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\aW1hZ2UvMTI1MzY0Ni83MzA1MzM0LmpwZw==\original\yPkRsZ.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMTI1MzY0Ni83MzA1MzM2LmpwZw==/original/vAfABS.jpg
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\aW1hZ2UvMTI1MzY0Ni83MzA1MzM2LmpwZw==\original\vAfABS.jpg
+Content Type: image/jpeg
+
+Uri: https://itch.io/
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\index.htm
+Content Type: text/html
+
+Uri: https://itch.io/games
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\games.html
+Content Type: text/html
+
+Uri: https://itch.io/games/free
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\games\free.html
+Content Type: text/html
+
+Uri: https://static.itch.io/lib.js?1635472519
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\lib.js
+Content Type: application/x-javascript
+
+Uri: https://static.itch.io/bundle.min.js?1635472519
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://static.itch.io/lib/jquery.maskMoney.js
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\lib\jquery.maskMoney.js
+Content Type: application/x-javascript
+
+Uri: https://static.itch.io/game.min.js?1635472519
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\game.min.js
+Content Type: application/x-javascript
+
+Uri: https://img.itch.zone/aW1hZ2UvMTI1MzY0Ni83MzA1MzMyLmpwZw==/347x500/5s7mbJ.jpg
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\aW1hZ2UvMTI1MzY0Ni83MzA1MzMyLmpwZw==\347x500\5s7mbJ.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMTI1MzY0Ni83MzA1MzMzLmpwZw==/347x500/eqlqwp.jpg
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\aW1hZ2UvMTI1MzY0Ni83MzA1MzMzLmpwZw==\347x500\eqlqwp.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMTI1MzY0Ni83MzA1MzM0LmpwZw==/347x500/z%2BH5i2.jpg
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\aW1hZ2UvMTI1MzY0Ni83MzA1MzM0LmpwZw==\347x500\z+H5i2.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMTI1MzY0Ni83MzA1MzM2LmpwZw==/347x500/4g3Eqp.jpg
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\aW1hZ2UvMTI1MzY0Ni83MzA1MzM2LmpwZw==\347x500\4g3Eqp.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMTI1MzY0Ni83MzA1MzMyLmpwZw==/794x1000/8%2FjKc3.jpg
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\aW1hZ2UvMTI1MzY0Ni83MzA1MzMyLmpwZw==\794x1000\8jKc3.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMTI1MzY0Ni83MzA1MzMzLmpwZw==/794x1000/LbANmh.jpg
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\aW1hZ2UvMTI1MzY0Ni83MzA1MzMzLmpwZw==\794x1000\LbANmh.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMTI1MzY0Ni83MzA1MzM0LmpwZw==/794x1000/76l0KT.jpg
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\aW1hZ2UvMTI1MzY0Ni83MzA1MzM0LmpwZw==\794x1000\76l0KT.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMTI1MzY0Ni83MzA1MzM2LmpwZw==/794x1000/77uay6.jpg
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\aW1hZ2UvMTI1MzY0Ni83MzA1MzM2LmpwZw==\794x1000\77uay6.jpg
+Content Type: image/jpeg
+
+Uri: https://static.itch.io/game.css?1635480754
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\game-1.css
+Content Type: text/css
+
+Uri: https://static.itch.io/lib.js?1635480754
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\lib-1.js
+Content Type: application/x-javascript
+
+Uri: https://static.itch.io/bundle.min.js?1635480754
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\bundle.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://static.itch.io/game.min.js?1635480754
+File Name: c:\Downloaded Web Sites\helpercat.itch.io\game.min-1.js
+Content Type: application/x-javascript
+
